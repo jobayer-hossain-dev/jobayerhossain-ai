@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="https://raw.githubusercontent.com/jobayerhossain-ai/jobayerhossain-ai/main/assets/dark.svg" alt="Jobayer Hossain - Security & Full-Stack Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/jobayer-hossain-dev/jobayerhossain-ai/main/assets/dark.svg" alt="Jobayer Hossain - Security & Full-Stack Engineer" width="100%" />
 </p>
 
 <div align="center">
@@ -95,11 +95,11 @@ interface EngineerProfile {
 
 | Enterprise System | Core Domain | Technical Architecture | Deployment |
 | :--- | :--- | :--- | :--- |
-| 🚀 **[devorica-agency-platform](https://github.com/jobayerhossain-ai/devorica-agency-platform)** | Agency Core & Design System | React, TypeScript, Tailwind CSS, Vite | Production |
-| 💼 **[agency-portfolio-nextjs](https://github.com/jobayerhossain-ai/agency-portfolio-nextjs)** | Modern Digital Agency Platform | Next.js 14 (App Router), TypeScript, Tailwind | Production |
-| 🏥 **[owsud-sathi-health](https://github.com/jobayerhossain-ai/owsud-sathi-health)** | Digital Pharmacy & Health Ecosystem | JavaScript, PHP REST API, MySQL | Production |
-| 🎫 **[icst-issue-portal](https://github.com/jobayerhossain-ai/icst-issue-portal)** | Institutional Ticket System | React, Express.js, TypeScript, REST API | Staging |
-| 💬 **[annochat](https://github.com/jobayerhossain-ai/annochat)** | Real-Time Anonymous Messaging | Firebase Realtime DB, ES6+ JS, Neon UI | Live Demo |
+| 🚀 **[devorica-agency-platform](https://github.com/jobayer-hossain-dev/devorica-agency-platform)** | Agency Core & Design System | React, TypeScript, Tailwind CSS, Vite | Production |
+| 💼 **[agency-portfolio-nextjs](https://github.com/jobayer-hossain-dev/agency-portfolio-nextjs)** | Modern Digital Agency Platform | Next.js 14 (App Router), TypeScript, Tailwind | Production |
+| 🏥 **[owsud-sathi-health](https://github.com/jobayer-hossain-dev/owsud-sathi-health)** | Digital Pharmacy & Health Ecosystem | JavaScript, PHP REST API, MySQL | Production |
+| 🎫 **[icst-issue-portal](https://github.com/jobayer-hossain-dev/icst-issue-portal)** | Institutional Ticket System | React, Express.js, TypeScript, REST API | Staging |
+| 💬 **[annochat](https://github.com/jobayer-hossain-dev/annochat)** | Real-Time Anonymous Messaging | Firebase Realtime DB, ES6+ JS, Neon UI | Live Demo |
 
 ---
 
@@ -109,17 +109,17 @@ interface EngineerProfile {
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jobayerhossain-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Telemetry"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=jobayer-hossain-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Telemetry"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayerhossain-ai&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="175" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer-hossain-dev&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="175" alt="Top Languages"/>
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jobayerhossain-ai&theme=tokyonight&hide_border=true" width="92%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jobayer-hossain-dev&theme=tokyonight&hide_border=true" width="92%" alt="GitHub Streak"/>
 </div>
 
 ---
